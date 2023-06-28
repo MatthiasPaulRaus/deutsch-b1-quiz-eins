@@ -51,10 +51,10 @@ const QuestionsList = [
         {answer:"sehr anstrengend.", isCorrect:true},  
         ]
     },
-    {question: "Wir suchten eine Wohnung,",
+    {question: "Wir suchen eine Wohnung,",
     answersList:[
-        {answer:"mit der Garage.", isCorrect:false},
-        {answer:"die in der Stadtmitte lag.", isCorrect:true},
+        {answer:"die eine Garage braucht.", isCorrect:false},
+        {answer:"die in der Stadtmitte liegt.", isCorrect:true},
         {answer:"die in den Garten führte.", isCorrect:false},  
         ]
     },
